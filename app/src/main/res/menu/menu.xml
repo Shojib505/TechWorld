@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Home"
+            android:id="@+id/home"/>
+        <item
+            android:id="@+id/android"
+            android:title="Android"/>
+        <item
+            android:title="Hacking"
+            android:id="@+id/hacking"/>
+        <item
+            android:id="@+id/tech_news"
+            android:title="Tech News"/>
+
+        <item
+            android:title="Guideline"
+            android:id="@+id/guide"/>
+
+    </group>
+    <group android:id="@+id/set"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/seting"
+            android:title="Setting"/>
+
+        <item
+            android:title="Rate This App"
+            android:id="@+id/rate_app"/>
+    </group>
+
+</menu>

@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "401956946619",
+    "firebase_url": "https://tech-world-236014.firebaseio.com",
+    "project_id": "tech-world-236014",
+    "storage_bucket": "tech-world-236014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401956946619:android:da195386be71a576",
+        "android_client_info": {
+          "package_name": "com.example.techworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401956946619-njkf3v39epfib2q58bi4rb7bo9muv8b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techworld",
+            "certificate_hash": "abc985c89fba87704756e8d9fa0324d01003fa11"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7rd8mz006f39v563IRvhdLG4gblaFzzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401956946619-695qqc48evj2bruijv59d7masde38f4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
